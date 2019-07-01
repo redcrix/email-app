@@ -29,4 +29,4 @@ pip3 install py3DNS
 
 It is not necessary to create virtual environment for running this webapp.
 
->>>>>>>>>>>>>>>>>>>>>>>>>>for mac and linux use python3 and pip3 in place of python and pip.
+>>>>>for mac and linux use python3 and pip3 in place of python and pip.
