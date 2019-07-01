@@ -29,7 +29,7 @@ pip install secure-smtplib
 
 pip install email-to
 
-pip install py3DNS
+pip3 install py3DNS  
 
 
 
