@@ -23,13 +23,13 @@ Steps to setup this project (run this in your terminal or cmd):
 
 Note: If their is an problem in running the install.py file then use the manual commands which are writen below.
 
-pip3 install validate_email
+pip install validate_email
 
-pip3 install secure-smtplib
+pip install secure-smtplib
 
-pip3 install email-to
+pip install email-to
 
-pip3 install py3DNS
+pip install py3DNS
 
 
 
